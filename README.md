@@ -1,1 +1,1 @@
-# CodeAlpha-task-2-url-shortner-main
+# CodeAlpha-task-2-url-shortner
